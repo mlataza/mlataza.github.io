@@ -1,0 +1,17 @@
+{
+    "name": "Guzman Bernardeau",
+    "copyright": "Guzman Bernardeau",
+    "fields": ["Designer", "Developer", "Freelancer", "Photographer"],
+    "tagline": "Crafting Ideas into Impactful Creations",
+    "about": "Thank you for visiting my portfolio. I look forward to connecting and exploring how we can collaborate to bring your ideas to life!",
+    "links": {
+        "twitter": "https://twitter.com/gm",
+        "facebook": "https://facebook.com/gm",
+        "instagram": "https://instagram.com/gm",
+        "skype": "https://skype.com/gm",
+        "linkedin": "https://linkedin.com/gm"
+    },
+    "biodata": {
+        "birthday": "1 May 1995"
+    }
+}
